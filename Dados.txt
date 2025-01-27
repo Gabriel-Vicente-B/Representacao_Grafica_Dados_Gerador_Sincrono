@@ -1,0 +1,28 @@
+Vf=181865.33+ 0j
+Resistencia
+Ra=1.9845
+Reatancia
+Xs=19.845
+fequencia
+fr=60
+N plos
+po=4
+P aparnte nominal
+Sn=1000000000
+fehamento
+fec='y'
+perdas nucleo
+pn=0
+perdas mecnicas
+pm=0
+fator pt gerador
+fg=1
+lim=1000000000
+
+
+pt carga
+Sc=600000000
+fator pt carga
+fp=1
+atrasado ou adiatado
+re='a'
